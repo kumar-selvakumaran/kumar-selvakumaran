@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumar Selvakumaran</h1>
-<h3 align="center">Passionate about Deeplearning and exploring its potential at different scales</h3>
+<h3 align="center">I'm Passionate about Deeplearning and exploring its potential at different scales</h3>
 
 - 📖 I'm doing my Masters in Artificial Intelligence at **Khoury College of Computer Science, Northeastern University**
 
