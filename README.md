@@ -39,10 +39,16 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="aws" width="40" height="30"/> </a>   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>    </p>
 
-<table style="width:100%">
+<!-- <table style="width:100%">
+
   <tr>
     <td> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumar-selvakumaran&show_icons=true&locale=en&layout=compact" alt="kumar-selvakumaran" width="340" height="400"/> </td>
     <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=kumar-selvakumaran&show_icons=true&locale=en" alt="kumar-selvakumaran" width="350" height="450"/></td>
     <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-selvakumaran&" alt="kumar-selvakumaran" width="400" height="400"/></td>
   </tr>
-</table>
+</table> -->
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumar-selvakumaran&show_icons=true&locale=en&layout=compact" alt="kumar-selvakumaran" width="340" height="400"/><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-selvakumaran&" alt="kumar-selvakumaran" width="400" height="400"/>
+
+<!-- &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kumar-selvakumaran&show_icons=true&locale=en" alt="kumar-selvakumaran" width="200" height="200"/> -->
+
