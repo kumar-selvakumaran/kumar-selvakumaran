@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumar Selvakumaran</h1>
 
-
-
-
-<h3 align="center">I'm learning help machines see and understand the world like and hopefully better than we do.</h3>
-
 - 📖 I'm doing my Masters in Artificial Intelligence at **Khoury College of Computer Science, Northeastern University**
 
 - 🔭 I’m currently working on implementing Neural Networks from scratch, compressing them, and making them explainable 
