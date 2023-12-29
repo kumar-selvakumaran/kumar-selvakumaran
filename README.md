@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences  [(Resume)](https://drive.google.com/file/d/1DWNcnx710iGZkzb0lXYTOgVp_s-rRi8G/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-selva/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kumarselvakumaran)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
