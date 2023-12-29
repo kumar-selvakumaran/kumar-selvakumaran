@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on implementing Neural Networks from scratch, compressing them, and making them explainable 
 
-- 🌱 I’m currently learning **Computer vision and C++ for AI**
+- 🌱 I’m currently learning **C++ for Computer vision and  AI**
 
 - 📄 Know about my experiences  [(Resume)](https://drive.google.com/file/d/1DWNcnx710iGZkzb0lXYTOgVp_s-rRi8G/view?usp=drive_link)
 
