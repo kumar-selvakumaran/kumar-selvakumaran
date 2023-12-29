@@ -17,7 +17,7 @@
 
 
 <details>
-<summary style="font-size:1.65vw"> <b>Technical skills</b> </summary>
+<summary style="font-size:1.95vw"> <b>Technical skills</b> </summary>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
