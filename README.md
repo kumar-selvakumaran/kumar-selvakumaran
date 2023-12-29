@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">I'm learning help machines see and understand</h3>
+<h3 align="center">I'm learning help machines see and understand the world like and hopefully better than we do.</h3>
 
 - 📖 I'm doing my Masters in Artificial Intelligence at **Khoury College of Computer Science, Northeastern University**
 
