@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++ for Computer vision and  AI**
 
-- 📄 Know about my experiences  [(Resume)](https://drive.google.com/file/d/1-Nef-MBqIzr-CVPuPz59JvTrG1wl-xAM/view?usp=drive_link)
+- 📄 Know about my experiences  [(Resume)](https://drive.google.com/file/d/1I3_gG4uD3xKqBnHNHYWa3HK_YNLUwI4v/view?usp=drive_link)
 
 <h4 align="left">Connect with me:</h3>
 
