@@ -3,11 +3,11 @@
 
 - 📖 I'm doing my Masters in Artificial Intelligence at **Khoury College of Computer Science, Northeastern University**
 
-- 🔭 I’m currently working on implementing explainable Neural Networks from scratch and compressing them for different environments. 
+- 🔭 I’m currently working on methods for building robust neural networks. 
 
 - 🌱 I’m currently learning **C++ for Computer vision and  AI**
 
-- 📄 my profile  [(Resume)](https://drive.google.com/file/d/1vx6pI4IVSJC9NnNmO5HVa2ki1mYhjUYn/view?usp=sharing)
+- 📄 my profile  [(Resume)](https://drive.google.com/file/d/16w0BMOX9at7lEoHePCA7IYDVDXEeSk8T/view?usp=drive_link)
 
 <h4 align="left">Connect with me:</h3>
 
