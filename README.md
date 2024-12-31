@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on methods for building robust neural networks. 
 
-- 🌱 I’m currently learning **C++ for Computer vision and  AI**
-
 - 📄 my profile  [(Resume)](https://drive.google.com/file/d/16w0BMOX9at7lEoHePCA7IYDVDXEeSk8T/view?usp=drive_link)
 
 <h4 align="left">Connect with me:</h3>
